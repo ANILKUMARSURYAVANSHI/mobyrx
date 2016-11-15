@@ -1,0 +1,11 @@
+
+
+.legend {
+    width: 30px;
+    height: 16px;
+}
+
+.mand:after {
+  content: "*";
+  color: red;
+}
